@@ -33,7 +33,7 @@ public abstract class Character{
 
     public boolean isDie(){
 
-        return health <= 0;
+        // isi kode anda disini
     }
 
     public void showCharacterInfo() {
